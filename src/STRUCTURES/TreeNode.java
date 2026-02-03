@@ -16,5 +16,9 @@ public class TreeNode {
         this.value = 0;
     }
 
+    protected void Insert(int value) {
+
+    }
+
 
 }
